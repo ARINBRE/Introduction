@@ -8,7 +8,7 @@ Welcome to the central hub for the **Arkansas IDeA Network of Biomedical Researc
 
 Use the links below to quickly access our essential introductory guides for working with the AR-INBRE tools on HPC and cloud environments:
 
-* **[Linux Command Primer](linux-intro.md):** Essential shell commands for navigating, managing files, and working in a bioinformatics or HPC environment.
+* **[Linux Command](linux-intro.md):** Essential shell commands for navigating, managing files, and working in a bioinformatics or HPC environment.
 * **[Conda Environment Guide](conda-intro.md):** Learn how to manage software dependencies and create reproducible environments for all AR-INBRE pipelines.
 
 ---
@@ -86,3 +86,4 @@ The following table summarizes all 7 core repositories, their primary purpose, a
 
 ---
 
+Let us learn bit about Linux [Next Page &rarr;](linux-intro.md)
