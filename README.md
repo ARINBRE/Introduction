@@ -1,6 +1,6 @@
 # AR-INBRE Research Computing Introduction
 
-Welcome to the central hub for the **Arkansas IDeA Network of Biomedical Research Excellence (AR-INBRE)** research computing resources. This document serves as the main catalog, providing a clear overview of the pipelines, tools, and educational modules available within the ARINBRE GitHub organization.
+Welcome to the central hub for the **Arkansas IDeA Network of Biomedical Research Excellence (AR-INBRE)** research computing resources. This document serves as the main catalog, providing a clear overview of the Repos for educational modules available within the ARINBRE GitHub.
 
 ---
 
@@ -13,19 +13,19 @@ Use the links below to quickly access our essential introductory guides for work
 
 ---
 
-## 🔎 Repository Catalog
+## Repository Catalog
 
 The following table summarizes all 7 core repositories, their primary purpose, and the key technologies they utilize. Click on any link to access the repository directly.
 
-| Repository Name | Primary Focus | Key Technologies | Cloud/HPC Ready? | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Proteome-Quantification** | **Proteomics Secondary Analysis** | R, TMT10plex, Statistical Analysis | Local/Cloud VM | [Go to Repo](Proteome-Quantification) |
-| **Biomedical-Imaging-Analysis-using-AI-ML-Approaches** | **AI/ML Image Analysis** | Deep Learning (Neural Networks), Python, Computer Vision | AWS, Google Cloud | [Go to Repo](Biomedical-Imaging-Analysis-using-AI-ML-Approaches) |
-| **[Repo 3 Name]** | [Concise Summary for Repo 3] | [Tech 1], [Tech 2] | [Yes/No] | [Go to Repo](Repo-3-Name) |
-| **[Repo 4 Name]** | [Concise Summary for Repo 4] | [Tech 1], [Tech 2] | [Yes/No] | [Go to Repo](Repo-4-Name) |
-| **[Repo 5 Name]** | [Concise Summary for Repo 5] | [Tech 1], [Tech 2] | [Yes/No] | [Go to Repo](Repo-5-Name) |
-| **[Repo 6 Name]** | [Concise Summary for Repo 6] | [Tech 1], [Tech 2] | [Yes/No] | [Go to Repo](Repo-6-Name) |
-| **[Repo 7 Name]** | [Concise Summary for Repo 7] | [Tech 1], [Tech 2] | [Yes/No] | [Go to Repo](Repo-7-Name) |
+| Repository Name | Primary Focus | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **Proteome-Quantification** | **Proteomics Secondary Analysis** | R, TMT10plex, Statistical Analysis | [Go to Repo](https://github.com/ARINBRE/Proteome-Quantification) |
+| **Biomedical-Imaging-Analysis-using-AI-ML-Approaches** | **AI/ML Image Analysis** | Deep Learning (Neural Networks), Python, Computer Vision | [Go to Repo](https://github.com/ARINBRE/Biomedical-Imaging-Analysis-using-AI-ML-Approaches) |
+| **[Repo 3 Name]** | [Concise Summary for Repo 3] | [Tech 1], [Tech 2] | [GeneMicroarrays](https://github.com/ARINBRE/GeneMicroarrays) |
+| **[Repo 4 Name]** | [Concise Summary for Repo 4] | [Tech 1], [Tech 2] | [DEanalysis_DESeq2](https://github.com/ARINBRE/DEanalysis_DESeq2) |
+| **[Repo 5 Name]** | [Concise Summary for Repo 5] | [Tech 1], [Tech 2] | [PCA](https://github.com/ARINBRE/PCA) |
+| **[Repo 6 Name]** | [Concise Summary for Repo 6] | [Tech 1], [Tech 2] | [DNAmethylation](https://github.com/ARINBRE/DNAmethylation) |
+| **[Repo 7 Name]** | [Concise Summary for Repo 7] | [Tech 1], [Tech 2] | [RNAseq](https://github.com/ARINBRE/RNAseq) |
 
 ---
 
