@@ -21,11 +21,11 @@ The following table summarizes all 7 core repositories, their primary purpose, a
 | :--- | :--- | :--- | :--- |
 | **Proteome-Quantification** | **Proteomics Secondary Analysis** | R, TMT10plex, Statistical Analysis | [Go to Repo](https://github.com/ARINBRE/Proteome-Quantification) |
 | **Biomedical-Imaging-Analysis-using-AI-ML-Approaches** | **AI/ML Image Analysis** | Deep Learning (Neural Networks), Python, Computer Vision | [Go to Repo](https://github.com/ARINBRE/Biomedical-Imaging-Analysis-using-AI-ML-Approaches) |
-| **[Repo 3 Name]** | [Concise Summary for Repo 3] | [Tech 1], [Tech 2] | [Go to Repo](https://github.com/ARINBRE/GeneMicroarrays) |
-| **[Repo 4 Name]** | [Concise Summary for Repo 4] | [Tech 1], [Tech 2] | [Go to Repo](https://github.com/ARINBRE/DEanalysis_DESeq2) |
-| **[Repo 5 Name]** | [Concise Summary for Repo 5] | [Tech 1], [Tech 2] | [Go to Repo](https://github.com/ARINBRE/PCA) |
-| **[Repo 6 Name]** | [Concise Summary for Repo 6] | [Tech 1], [Tech 2] | [Go to Repo](https://github.com/ARINBRE/DNAmethylation) |
-| **[Repo 7 Name]** | [Concise Summary for Repo 7] | [Tech 1], [Tech 2] | [Go to Repo](https://github.com/ARINBRE/RNAseq) |
+| **GeneMicroarrays** | **Gene Microarray Analysis** | R, Jupyter, GEO Query, Affymetrix | [Go to Repo](https://github.com/ARINBRE/GeneMicroarrays) |
+| **DEanalysis using DESeq2** | **RNA-Seq Count Analysis** | R (DESeq2), Bioconductor | [Go to Repo](https://github.com/ARINBRE/DEanalysis_DESeq2) |
+| **PCA** | **Dimensionality Reduction** | R, Jupyter, Visualization | [Go to Repo](https://github.com/ARINBRE/PCA) |
+| **DNAmethylation** | **Epigenetic Analysis** | R, Illumina 450k/EPIC, Bioconductor | [Go to Repo](https://github.com/ARINBRE/DNAmethylation) |
+| **RNAseq** | **RNA-Seq Pipeline & Analysis** | Nextflow, R (EdgeR/Limma), Jupyter, HPC, Slurm, Bash | [Go to Repo](https://github.com/ARINBRE/RNAseq) |
 
 ---
 
