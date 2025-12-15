@@ -25,6 +25,24 @@ Use `curl` or `wget` to download the latest Miniconda installer from the officia
 curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 ```
 
+#### macOS Example (Intel)
+```
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+```
+#### macOS Example (Apple Silicon)
+```
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
+```
+Execute the downloaded installer using `bash`:
+`bash Miniconda3-latest-Linux-x86_64.sh`
+
+
+** Follow the Installation Prompts **
+- Press ENTER to review the license agreement.
+- Type yes to accept the license.
+- Accept the default installation location or specify a custom path.
+- When prompted to initialize Conda, type yes.
+
 ## Window Installation
 
 #### Windows Example
