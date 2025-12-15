@@ -2,7 +2,7 @@
 
 Conda is an open-source package management system and environment management system. It is the single most important tool for ensuring that your bioinformatics pipelines run consistently, both on your local machine and on an HPC cluster.
 
-# Installing Conda via Command Line
+## Installing Conda via Command Line
 
 We describes how to install **Conda** (using **Miniconda**, recommended) across macOS, Linux, and Windows systems, and how to verify a successful installation.
 
