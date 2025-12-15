@@ -22,7 +22,7 @@ Use `curl` or `wget` to download the latest Miniconda installer from the officia
 
 #### Linux Example
 ```
-curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 ```
 
 #### macOS Example (Intel)
