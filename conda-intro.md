@@ -57,7 +57,6 @@ https://www.anaconda.com/download/success
 - Miniforge installer for Windows
 - Verify your installer hashes.
 - Double-click the .exe file.
-
 - Follow the instructions on the screen.
 
 If you are unsure about any setting, accept the defaults. You can change them later.
@@ -67,7 +66,7 @@ When installation is finished, from the Start menu, open either the Anaconda Com
 - Test your installation. In your terminal window, run the command conda list. A list of installed packages appears if it has been installed correctly.
 - To run the the Windows installer for Miniconda in silent mode, use the /S argument. The following optional arguments are supported:
 
-` /InstallationType=[JustMe|AllUsers]---Default is JustMe.`
+`/InstallationType=[JustMe|AllUsers]---Default is JustMe.`
 
 ` /AddToPath=[0|1]---Default is 0 `
 
