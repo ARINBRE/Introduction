@@ -2,18 +2,18 @@
 
 Conda is an open-source package management system and environment management system. It is the single most important tool for ensuring that your bioinformatics pipelines run consistently, both on your local machine and on an HPC cluster.
 
-## Installing Conda via Command Line
+### Installing Conda via Command Line
 
 We describes how to install **Conda** (using **Miniconda**, recommended) across macOS, Linux, and Windows systems, and how to verify a successful installation.
 
 ---
 
-## Why Miniconda?
+### Why Miniconda?
 Miniconda is a lightweight Conda distribution that includes only Conda and Python, allowing users to install only the packages they need. This is preferred for scientific computing and bioinformatics workflows.
 
 ---
 
-## macOS and Linux Installation
+### macOS and Linux Installation
 
 ### 1. Download the Installer
 Use `curl` or `wget` to download the latest Miniconda installer from the official Anaconda repository.
@@ -43,7 +43,7 @@ Execute the downloaded installer using `bash`:
 - Accept the default installation location or specify a custom path.
 - When prompted to initialize Conda, type yes.
 
-## Window Installation
+### Window Installation
 
 #### Windows Example
 
