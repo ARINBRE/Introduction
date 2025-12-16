@@ -1,6 +1,6 @@
 ### Introduction to Conda
 
-## Dependency Hell vs Conda Environments
+<!--- ## Dependency Hell vs Conda Environments   -->
 
 ![Dependency Hell vs Conda Environments](images/conda_fig_v1.png)
 
