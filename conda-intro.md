@@ -1,5 +1,10 @@
 ### Introduction to Conda
 
+## Dependency Hell vs Conda Environments
+
+![Dependency Hell vs Conda Environments](images/conda_fig_v1.png)
+
+
 Conda is an open-source package management system and environment management system. It is the single most important tool for ensuring that your bioinformatics pipelines run consistently, both on your local machine and on an HPC cluster.
 
 ### Installing Conda via Command Line
