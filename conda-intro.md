@@ -139,7 +139,8 @@ Activate the environment
 `conda activate r422_env`
 
 Install commonly used R packages
-`conda install -c conda-forge \
+```
+conda install -c conda-forge \
   r-tidyverse \
   r-ggplot2 \
   r-dplyr \
@@ -148,21 +149,21 @@ Install commonly used R packages
   r-data.table \
   r-knitr \
   r-rmarkdown -y
-`
+```
 
 Verify installation
 
-`
+```
 R --version
 R -q -e "library(tidyverse); cat('R environment ready\n')"
-`
+```
 
 Typical use cases
 
 - Statistical analysis
 - Data visualization
 - Report generation (R Markdown)
-- Reproducible research workflows
+
 
 
 ---
