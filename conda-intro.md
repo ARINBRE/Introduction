@@ -102,7 +102,7 @@ Activate the environment
 `conda activate py312_env
 `
 Install commonly used Python packages
-`
+```
 conda install -c conda-forge \
   numpy \
   pandas \
@@ -112,12 +112,14 @@ conda install -c conda-forge \
   scikit-learn \
   jupyterlab \
   biopython -y
-`
+```
+
 Verify installation
-`
+```
 python --version
 python -c "import numpy, pandas, biopython; print('Python environment ready')"
-`
+```
+
 Typical use cases
 
 - Data analysis and visualization
