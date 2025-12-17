@@ -84,7 +84,8 @@ When installation is finished, from the Start menu, open either the Anaconda Com
 ---
 ## Creating Isolated Conda Environments (Python & R)
 
-One of the biggest advantages of Conda is the ability to create **fully isolated environments** for different languages and workflows. Below are two practical examples: one for a modern Python workflow and one for an R-based analysis.
+<!-- One of the biggest advantages of Conda is the ability to create **fully isolated environments** for different languages and workflows. -->
+Below are two practical examples: one for a modern Python workflow and one for an R-based analysis.
 
 
 
