@@ -82,8 +82,8 @@ When installation is finished, from the Start menu, open either the Anaconda Com
 `/D=<installation path>` ---Destination installation path. Must be the last argument. Do not wrap in quotation marks. Required if you use `/S`.
 
 ---
-Dive into official conda cheatsheet [CHEATSHEET &rarr;](conda-cheatsheet.pdf)
+Dive into official conda cheatsheet [ cheatsheet &rarr;](conda-cheatsheet.pdf)
 
 
 ---
-Go back to introduction page [Next Page &rarr;](README.md)
+Go back to introduction page [ Next Page &rarr;](README.md)
